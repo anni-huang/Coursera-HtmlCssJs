@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(248, 236, 236);
+}
+
+nav {
+  border: 2px solid rgb(37, 0, 61);
+  background-color: rgb(252, 215, 215);
+}
+
+h1 {
+  margin: 30px auto;
+}
+
+p {
+  color: rgb(71, 10, 10);
+}
+
+#p-subtitle {
+  font-size: 1.25em;
+  font-weight: bold;
+  text-align: center;
+}
+
+#p-text {
+  font-family: Arial, sans-serif;
+  font-weight: italic;
+  font-size: 1em;
+}
+
+.pstyle {
+  background-color: rgb(225, 247, 191);
+  border: 1px solid rgb(37, 0, 61);
+  margin: 5px;
+  padding: 5px;
+}
+
+.nav-item {
+  border-bottom: 2px solid rgb(37, 0, 61);
+}
+
+.nav-item a {
+  color: rgb(37, 0, 61);
+  font-weight: bold;
+}
